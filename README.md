@@ -37,7 +37,8 @@ data1.head()
 data1.isnull()
 
 data1.duplicated().sum()
-
+```
+```
 from sklearn.preprocessing import LabelEncoder
 le=LabelEncoder()
 data1["gender"]=le.fit_transform(data1["gender"])
