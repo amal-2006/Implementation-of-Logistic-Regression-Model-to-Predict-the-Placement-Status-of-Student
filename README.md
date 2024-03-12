@@ -37,8 +37,8 @@ data1.head()
 data1.isnull()
 
 data1.duplicated().sum()
-```
-```
+
+
 from sklearn.preprocessing import LabelEncoder
 le=LabelEncoder()
 data1["gender"]=le.fit_transform(data1["gender"])
@@ -56,7 +56,8 @@ x
 
 y=data1["status"]
 y
-
+```
+```
 from sklearn.model_selection import train_test_split
 x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2,random_state=0)
 
