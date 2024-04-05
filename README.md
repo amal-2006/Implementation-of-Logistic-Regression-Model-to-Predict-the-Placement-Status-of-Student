@@ -99,10 +99,11 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![Screenshot 2024-03-12 092359](https://github.com/amal-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148410730/b0874ebf-c4e9-4c0b-84f3-a8b4a00f521d)
 
 ### ACCURACY VALUE
-![Screenshot 2024-03-12 092511](https://github.com/amal-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148410730/77246ff1-713d-430f-b61a-a2c15ae1fef9)
+![Screenshot 2024-03-12 092515](https://github.com/amal-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148410730/a00c9ad8-5c04-4cd2-b7ab-041cf83a07b6)
 
 ### CONFUSION ARRAY
-![Screenshot 2024-03-12 092515](https://github.com/amal-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148410730/a00c9ad8-5c04-4cd2-b7ab-041cf83a07b6)
+![Screenshot 2024-03-12 092511](https://github.com/amal-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148410730/77246ff1-713d-430f-b61a-a2c15ae1fef9)
+
 
 ### CLASSIFICATION REPORT
 ![Screenshot 2024-03-12 092519](https://github.com/amal-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148410730/12ee591c-cc9d-4e00-92ef-0f47fb6c057c)
