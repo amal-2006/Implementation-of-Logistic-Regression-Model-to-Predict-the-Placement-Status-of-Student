@@ -55,7 +55,8 @@ data1
 
 x=data1.iloc[:,:-1]
 x
-
+```
+```
 y=data1["status"]
 y
 
