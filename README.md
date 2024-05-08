@@ -52,11 +52,11 @@ data1["workex"]=le.fit_transform(data1["workex"])
 data1["specialisation"]=le.fit_transform(data1["specialisation"])
 data1["status"]=le.fit_transform(data1["status"])
 data1
-
+```
+```
 x=data1.iloc[:,:-1]
 x
-```
-```
+
 y=data1["status"]
 y
 
